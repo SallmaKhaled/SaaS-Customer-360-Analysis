@@ -122,9 +122,3 @@ The final customer-level analytical dataset is exported as:
 `customer360.csv`
 
 This dataset combines customer information with transaction, subscription, support, and marketing interaction metrics for further analysis or dashboard development.
-
-## 👩‍💻 Author
-
-**Salma Khaled**
-
-Data Analysis Portfolio Project
